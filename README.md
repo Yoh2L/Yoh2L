@@ -8,10 +8,10 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoh2L&show_icons=true&theme=synthwave" />
+  <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Yoh2L&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoh2L&layout=compact&hide=shell&theme=synthwave" />
+  <img align="top" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoh2L&layout=compact&hide=shell&theme=synthwave" />
 </a>
 <p align="center">
 <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
