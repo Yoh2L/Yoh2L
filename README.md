@@ -4,7 +4,6 @@
 
 - 💻 A french junior Front-End Developer
 - 🌱 Just finished a Front-End formation at OpenClassrooms
-- ✨ Currently looking for a job
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
